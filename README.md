@@ -11,4 +11,4 @@
 * Низкая цена
 
 ```javascript
-console.log('message');
+console.log('message'); 
